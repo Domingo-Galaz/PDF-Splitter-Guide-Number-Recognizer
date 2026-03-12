@@ -175,3 +175,6 @@ pip install pdf2image pytesseract opencv-python numpy pikepdf pdfplumber
 Created by **Domingo Galaz Ramirez**
 
 © All rights reserved
+
+![PDF](https://github.com/user-attachments/assets/9084ba8b-a18b-43ce-b2f0-acb657139787)
+
